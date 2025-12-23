@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React Portfolio, multiple pages with dark mode
 
 ## a portfolio for developers
@@ -214,3 +215,7 @@ The easiest way is to click on [this link](https://www.canva.com/design/DAEi4hwD
 [Dirk Kotze](https://dirkrkotze.com/)
 
 [Iuliia Sutygina](https://juliasut.github.io/portfolio/)
+=======
+# MyPortfolio
+my portfolio app
+>>>>>>> f30840bbf13ec9e77f0fd19c0c35ff3e0fcd58df
