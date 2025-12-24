@@ -5,7 +5,7 @@ footer {
 }
 
 .dark {
-  background-color: $dark;
+ background-color: rgba(0, 0, 0, 0.3); // semi-transparent black
   color: $white;
   transition: all 400ms;
 

@@ -80,7 +80,7 @@ export const info = {
 // Just change the links so that they lead to your social profiles.
 
     ],
-    bio: "Hello! I’m Jaydeep, a Backend Java Developer passionate about building robust Spring Boot applications. I have 2 years of hands-on experience and hold an MCA degree from Charusat University.",
+    bio: "Hello! I’m Jaydeep, a Backend Java Developer passionate about building robust Spring Boot applications. I have 2 years of hands-on experience in Software Development.",
     skills:
         {
             proficientWith: ['Java','Java Core', 'Spring boot', 'AWS', 'React.js',],

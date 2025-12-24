@@ -2,6 +2,7 @@ import React from 'react';
 import './App.module.scss';
 import BaseLayout from "./components/BaseLayout";
 import {BrowserRouter} from "react-router-dom";
+import MatrixBackground from "./components/home/MatrixBackground";
 
 function App() {
 const params = new URLSearchParams(window.location.search);
@@ -12,6 +13,7 @@ if (redirect) {
 
    return (
       <div>
+         <MatrixBackground />
          <BrowserRouter>
             <BaseLayout/>
          </BrowserRouter>

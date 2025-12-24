@@ -23,7 +23,7 @@ export default function ContactMe() {
 
   return (
     <div style={{ maxWidth: "500px", margin: "auto", padding: "20px" }}>
-      <h2 style={{ textAlign: "center" }}>Enter your query</h2>
+      <h2 style={{ textAlign: "center" }}>Enter your query!...</h2>
 
       <input
         type="text"
